@@ -1,4 +1,5 @@
 1. Introduction
+
 Tu viens d'être recruté en tant que stagiaire Data Analyst par le Ministère de la Culture. Le précédent stagiaire avait réussi à récolter le maximum d'informations sur les musées français.
 Comme première mission, ton manager te demande d'analyser avec Python le fichier csv obtenu et d'essayer de trouver des informations intéressantes dans ce fichier.
 
@@ -6,12 +7,15 @@ En fait, la 17ème Nuit européenne des musées a eu lieu le samedi 3 juillet �
 Mais elle ne sait pas vraiment quoi raconter ... Elle espère que ton analyse de données l'aidera à se lancer dans la rédaction de son article.
 
 2. Le projet
-2.1. Télécharger le fichier csv et l'ouvrir sur ton notebook
+3. 
+4.1. Télécharger le fichier csv et l'ouvrir sur ton notebook
+
 Le travail réalisé par le stagiaire précédent a été mis en ligne sur la plateforme Opendata du gouvernement : data.gouv.fr. Tu peux retrouver son travail ici et télécharger le fichier csv concernant les musées de France métropolitaine.
 
 Si tu es curieux, n'hésite pas à aller regarder le script Python qui a été réalisé et pourquoi il a fait cela. Cela te permettra de t'imprégner de la mentalité open source et de voir le genre de scripts que tu sauras faire à la fin de la formation.
 
 2.2. Répondre aux questions posées par ton manager
+
 Ton manager t'a donné une liste de questions pour te rendre la tâche plus concrète. Il t'a demandé de répondre à ces questions dans un premier temps en laissant apparentes tes requêtes sur le Notebook.
 
 Combien y-a-t-il de musées en France métropolitaine ?
@@ -26,6 +30,7 @@ Quel département français possède le moins de musées sur son territoire ?
 Combien de musées ont "Napoléon" dans leur nom ?
 
 2.3. Proposer deux axes d'analyse supplémentaires
+
 Tu rends la réponse aux 10 questions mais ton manager n'est pas totalement satisfait. Il trouve que cela manque encore d'informations vraiment croustillantes pour le grand public.
 
 Il te demande alors un nouveau travail : peux-tu proposer deux sources de données complémentaires qui pourraient enrichir le fichier ? Les développeurs se chargeront de récupérer les données quand tu auras identifiées les sources.
