@@ -30,7 +30,7 @@ Tu rends la réponse aux 10 questions mais ton manager n'est pas totalement sati
 
 Il te demande alors un nouveau travail : peux-tu proposer deux sources de données complémentaires qui pourraient enrichir le fichier ? Les développeurs se chargeront de récupérer les données quand tu auras identifiées les sources.
 
-Par exemple, si tu trouves un site qui donne la fréquentation de tous les musées français, je pense que la responsable de la communication sera contente de pouvoir ajouter dans son article un top 5 des musées les plus fréquentés, ainsi qu'un flop 5 de ceux où personne ne va jamais 👹👹
+Par exemple, si tu trouves un site qui donne la fréquentation de tous les musées français, je pense que la responsable de la communication sera contente de pouvoir ajouter dans son article un top 5 des musées les plus fréquentés, ainsi qu'un flop 5 de ceux où personne ne va jamais.
 
 Ajoute à la suite de ton fichier Jupyter une cellule au format Markdown qui détaille les deux sources de données existantes qu'il serait utile d'ajouter au fichier csv initial, sur quel site on peut les obtenir et ce qu'elles apporteraient dans l'analyse.
 
