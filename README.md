@@ -7,7 +7,7 @@ En fait, la 17ème Nuit européenne des musées a eu lieu le samedi 3 juillet �
 Mais elle ne sait pas vraiment quoi raconter ... Elle espère que ton analyse de données l'aidera à se lancer dans la rédaction de son article.
 
 2. Le projet
-3. 
+ 
 4.1. Télécharger le fichier csv et l'ouvrir sur ton notebook
 
 Le travail réalisé par le stagiaire précédent a été mis en ligne sur la plateforme Opendata du gouvernement : data.gouv.fr. Tu peux retrouver son travail ici et télécharger le fichier csv concernant les musées de France métropolitaine.
